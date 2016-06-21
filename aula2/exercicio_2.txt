@@ -1,0 +1,11 @@
+Exercício 2
+
+Implemente, compile e execute o exemploanterior.
+Se tiver dificuldades, leia o documento de orientações iniciais disponível para download no site da disciplina.
+
+--------------------------------------------
+
+Exercicio 3
+
+Faça um programa em JAVA que mostre seu nome, número de matrícula e seu telefone com um dado em cada linha da mensagem.
+Use \n para conseguir o efeito desejado.
