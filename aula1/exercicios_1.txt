@@ -1,0 +1,5 @@
+Exercício 1:
+Problema: Calcule a média aritmética de 3 valores,
+use pseudo-código para esta tarefa.
+
+
