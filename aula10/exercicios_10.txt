@@ -1,0 +1,29 @@
+Exercício 39
+
+Escreva um algoritmo para calcular a soma dos 20 primeiros números iniciando por um número digitado pelo usuário. 
+Use do..while.
+
+Ex: usuário digitou 12, Vai somar 12+13+14+15...+32
+
+-------------------------
+
+Exercício 40
+
+Solicite ao usuário que escreva uma frase e o número de vezes que a mesma deve ser mostrada. 
+Implemente o algoritmo usando do..while.
+
+-------------------------
+
+Exercício 41
+
+Escreva um algoritmo que mostre todos os números pares entre 13 e 23 usando do..while.
+
+-------------------------
+
+Exercício 42
+
+Usando do..while, escreva um algoritmo que solicite 3 números inteiros. 
+Para cada número informado, verifique se o mesmo é múltiplo de 3, mostre o resultado da verificação em uma mensagem todas as vezes que a comparação ocorrer.
+
+-------------------------
+
