@@ -1,0 +1,39 @@
+Exercício 15
+
+Faça um programa em JAVA que solicite 2 números inteiros e efetue a adição, caso o resultado seja maior que 10, apresente-o.
+
+------------------------
+
+Exercício 16
+
+Faça um programa em JAVA que solicite 1 número inteiro, verifique se o mesmo é múltiplo de 2 e mostre a resposta mesmo que negativa.
+
+------------------------
+
+Exercício 17
+
+Faça um programa em JAVA que solicite 2 números inteiros, verificar qual é o número maior e mostrar na tela, ou se forem iguais, mostrar uma mensagem indicando esta informação.
+
+------------------------
+
+Exercício 18
+
+A prefeitura de Florianópolis abriu uma linha de crédito para os funcionários estatutários. 
+O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. 
+Faça um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
+
+------------------------
+
+Exercício 19
+
+Solicitar o ano de nascimento de uma pessoa e o ano atual. 
+Verifique se o ano de nascimento é válido, ou seja, se o ano de nascimento é menor que o ano atual, então mostre a idade desta pessoa.
+
+------------------------
+
+Exercício 20
+
+Solicitar nome e idade de uma pessoa.
+Se a pessoa possuir idade entre 15 e 25 anos, imprimir o nome e a mensagem: “ACEITA”.
+Caso contrário, imprimir o nome e a mensagem: “NÃO ACEITA”.
+
