@@ -1,0 +1,22 @@
+Exercício 7
+
+Escreva um programa em JAVA que solicite ao usuário um nome, armazene em uma variável e depois mostre o nome digitado em uma mensagem.
+
+---------------------------
+
+Exercício 8
+
+Escreva um programa em JAVA que solicite ao usuário 2 números inteiros (um de cada vez),
+armazene os valores em variáveis e depois mostre a soma dos dois em uma mensagem.
+
+---------------------------
+
+Exercício 9
+Escreva um programa em JAVA que solicite ao usuário o seu peso(aqui entenda massa) em Kg (int) e a sua altura em metros (Double). 
+Com estes dados calcule o IMC – Índice de Massa Corporal. 
+
+Seguindo a seguinte fórmula.
+IMC = massa / (altura²)
+
+Mostre o resultado em uma mensagem.
+    
